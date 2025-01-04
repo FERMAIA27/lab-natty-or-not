@@ -23,19 +23,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Podcast - Cruzeiro na Amazônia
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+    IA Generativa ChatGPT para roteiro;
+    IA Generativa ElevenLabs para sintetização de voz;
+    Software Descript para edição do podcast.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+   Usei primeiro o "ChatGPT" para criar um roteiro do podcast. "ElevenLabs" ajudou a criar uma voz sintética para a narração, enquanto o "Descript" utilizei para a edição final, garantindo um fluxo natural e ao mesmo tempo profissional.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Escolhi o tema de um Cruzeiro pela Amazônia, para mim, criar um Podcast foi desafio, já que foi a primeira vez que fiz. Achei muito interessante.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Um desafio, porém muito feliz de ter iniciado e saber que tem muitas coisas para aprender e praticar pela frente.
 ```
 
 ### Exemplos e Insigths
